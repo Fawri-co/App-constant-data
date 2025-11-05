@@ -33,7 +33,7 @@ String kidsBoysSubCategory =
 String kidsGirlsSubCategory =
     "WashaqKids,WashaqKidsGirls,Young_Girls_Bottoms,Young_Girls_Dresses,Young_Girls_Pajamas,Young_Girls_Sets,Young_Girls_Tops";
 String kidsSub =
-    "WashaqKids,WashaqKidsBoys,WashaqKidsGirls,UniSexKidsGirls,Young_Boys_Bottoms,Young_Boys_Pajamas,Young_Boys_Sets,Young_Boys_Tops,Young_Girls_Bottoms,Young_Girls_Dresses,Young_Girls_Pajamas,Young_Girls_Sets,Young_Girls_Tops";
+    "WashaqKids,WashaqKidsBoys,WashaqKidsGirls,UniSexKidsGirls,Young_Boys_Bottoms,Young_Boys_Pajamas,Young_Boys_Sets,Young_Girls_Bottoms,Young_Girls_Dresses,Young_Girls_Pajamas,Young_Girls_Sets,Young_Girls_Tops";
 
 var basicCategories = [
   {
@@ -462,7 +462,7 @@ var allkids = [
     "name": "بلايز أطفال",
     "image": Assets.images.kLanding.path,
     "main_category": kidsCategory,
-    "sub_category": "Young_Girls_Tops,Young_Boys_Tops"
+    "sub_category": "Young_Girls_Tops"
   },
   {
     "name": "ملابس أطفال سفلية",
