@@ -21,12 +21,35 @@ dependencies:
     path: ../app_Constant_Data  # Use the relative path to this package
 ```
 
+⚠️ **Important**: The package name must be `app_constant_data` (lowercase with underscores). 
+**DO NOT** use:
+- ❌ `App-constant-data` (capital letters and hyphens)
+- ❌ `App_constant_data` (capital letters)
+- ❌ `app-constant-data` (hyphens)
+
+✅ **Correct**: `app_constant_data` (lowercase with underscores only)
+
 Or if published to pub.dev:
 
 ```yaml
 dependencies:
   app_constant_data: ^1.0.0
 ```
+
+Or using Git dependency:
+
+```yaml
+dependencies:
+  app_constant_data:
+    git:
+      url: https://github.com/Fawri-co/App-constant-data.git
+      ref: main
+```
+
+⚠️ **Important for Git dependencies**: 
+- The dependency key must be `app_constant_data` (matches the package name in pubspec.yaml)
+- The repository name can be `App-constant-data` (GitHub allows different naming)
+- The key and the repository name are **independent** - always use `app_constant_data` as the key
 
 Then run:
 ```bash
