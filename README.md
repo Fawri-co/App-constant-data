@@ -1,16 +1,150 @@
 # app_constant_data
 
-A new Flutter project.
+A Flutter package containing constant data for categories, subcategories, and tags.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+This package provides:
+- Main category constants (Women, Men, Kids, Bags, Shoes, etc.)
+- Subcategory constants for various product categories
+- Category data arrays (basicCategories, secondaryCategories, etc.)
+- Tag arrays for products
+- Asset images for category icons
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Add this package to your `pubspec.yaml`:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```yaml
+dependencies:
+  app_constant_data:
+    path: ../app_Constant_Data  # Use the relative path to this package
+```
+
+Or if published to pub.dev:
+
+```yaml
+dependencies:
+  app_constant_data: ^1.0.0
+```
+
+Then run:
+```bash
+flutter pub get
+```
+
+## Usage
+
+Import the package in your Dart file:
+
+```dart
+import 'package:app_constant_data/app_constant_data.dart';
+```
+
+### Accessing Constants
+
+```dart
+// Category strings
+String women = womenCategory;
+String men = menCategory;
+
+// Category arrays
+var categories = basicCategories;
+var secondary = secondaryCategories;
+var womenCategories = women;
+var menCategories = men;
+var kidsCategories = kids;
+
+// Tags
+var allTags = tags;
+var menTags = tagsMen;
+var womenTags = womenTags;
+
+// Assets
+String imagePath = Assets.images.wLanding.path;
+```
+
+### Example
+
+```dart
+import 'package:flutter/material.dart';
+import 'package:app_constant_data/app_constant_data.dart';
+
+class CategoryList extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return ListView.builder(
+      itemCount: basicCategories.length,
+      itemBuilder: (context, index) {
+        final category = basicCategories[index];
+        return ListTile(
+          title: Text(category['name'] as String),
+          leading: Image.asset(
+            category['image'] as String,
+            package: 'app_constant_data',
+          ),
+        );
+      },
+    );
+  }
+}
+```
+
+## Available Constants
+
+### Category Strings
+- `womenCategory`
+- `menCategory`
+- `kidsCategory`
+- `bagsCategory`
+- `shoesCategory`
+- `underWearCategory`
+- `homeCategory`
+- `accessoriesCategory`
+- `officeCategory`
+- `beautyCategory`
+- `sportsCategory`
+- `electronicsCategory`
+
+### Category Arrays
+- `basicCategories`
+- `secondaryCategories`
+- `women`
+- `men`
+- `womenPlus`
+- `allkids`
+- `girls`
+- `boys`
+- `womenAndBaby`
+- `allShoes`
+- `menShoes`
+- `womenShoes`
+- `underWare`
+- `home`
+- `apparel`
+- `beauty`
+- `electronics`
+- `bags`
+- `sports`
+- `kids`
+- `perfume`
+
+### Tag Arrays
+- `tags` - All tags
+- `tagsMen` - Men's tags
+- `womenTags` - Women's tags
+
+## Assets
+
+The package includes category images. When using assets from this package, make sure to specify the package name:
+
+```dart
+Image.asset(
+  Assets.images.wLanding.path,
+  package: 'app_constant_data',
+)
+```
+
+## License
+
+This package is provided as-is for use in your Flutter projects.
