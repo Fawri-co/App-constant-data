@@ -1,7 +1,7 @@
 
 import 'gen/assets.gen.dart';
 // Main Categories
-String womenCategory = "Women_Apparel,UniSexA,Sports_&_Outdoor";
+String womenCategory = "Women_Apparel";
 String menCategory = "Men_Apparel,UniSexA,Sports_&_Outdoor";
 String kidsCategory = "Baby_&_Kids,UniSexK";
 String bagsCategory = "Bags_%26_Luggage";
