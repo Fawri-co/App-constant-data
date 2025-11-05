@@ -29,7 +29,7 @@ String womenShoesSub =
 String menShoesSub =
     "Men_Loafers,Men_Boots,Men_Shoes,Dress_Shoes,Men_Sneakers,Men_Sandals";
 String kidsBoysSubCategory =
-    "WashaqKids,WashaqKidsBoys,Young_Boys_Bottoms,Young_Boys_Pajamas,Young_Boys_Sets,Young_Boys_Tops";
+    "WashaqKids,WashaqKidsBoys,Young_Boys_Bottoms,Young_Boys_Pajamas,Young_Boys_Sets";
 String kidsGirlsSubCategory =
     "WashaqKids,WashaqKidsGirls,Young_Girls_Bottoms,Young_Girls_Dresses,Young_Girls_Pajamas,Young_Girls_Sets,Young_Girls_Tops";
 String kidsSub =
