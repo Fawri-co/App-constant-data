@@ -3,7 +3,7 @@
     "women": "Women_Apparel,UniSexA,Sports_&_Outdoor",
     "men": "Men_Apparel,UniSexA,Sports_&_Outdoor",
     "kids": "Baby_&_Kids,UniSexK",
-    "bags": "Bags_%26_Luggage",
+    "bags": "Bags_&_Luggage",
     "shoes": "Shoes,Baby_&_Kids",
     "underwear": "Underwear_&_Sleepwear",
     "home": "Home_&_Living",
@@ -21,12 +21,12 @@
     "men":
     "WashaqMen,WashaqUni,Men_Tops,Men_Clothing,Men_Outerwear,Men_Hoodies_&_Sweatshirts,Men_Co_Ords,Men_Bottoms,Men_Denim,Men_Knitwear,Men_Traditional_Cultural_Wear,Men_Active_Tops",
     "shoes":
-    "Men_Shoes,Women_Sandals,Women_Flats,Women_Shoes,Men_Sneakers,Men_Sandals_Slides,Women_Boots,Women_Sneakers,Women_Pumps,Women_Fashion_Boots,Men_Loafers,Dress_Shoes,Men_Boots,Women_Slippers,Men_Sandals,Men_Athletic_Shoes,Men_Slippers,Women_Outdoor_Shoes,Women_Wedges_Flatform,Men_Outdoor_Shoes,Men_Clogs,Women_Athletic_Shoes,Men_Flip_Flops_Slides,Men_Work_Safety_Shoes,Women_Clogs,Men_Flip_Flops_%26_Slides,Men_Skateboarding_Shoes,Wide_Fit_Pumps,Women_Wedges_%26_Flatform,Women_Loafers_Shoes,Men_Canvas_Shoes,boys_shoes",
+    "Men_Shoes,Women_Sandals,Women_Flats,Women_Shoes,Men_Sneakers,Men_Sandals_Slides,Women_Boots,Women_Sneakers,Women_Pumps,Women_Fashion_Boots,Men_Loafers,Dress_Shoes,Men_Boots,Women_Slippers,Men_Sandals,Men_Athletic_Shoes,Men_Slippers,Women_Outdoor_Shoes,Women_Wedges_Flatform,Men_Outdoor_Shoes,Men_Clogs,Women_Athletic_Shoes,Men_Flip_Flops_Slides,Men_Work_Safety_Shoes,Women_Clogs,Men_Flip_Flops_&_Slides,Men_Skateboarding_Shoes,Wide_Fit_Pumps,Women_Wedges_&_Flatform,Women_Loafers_Shoes,Men_Canvas_Shoes,boys_shoes",
     "bags":
-    "Brands,Men_Bags,Travel_Bags,Wallets_%26_Card_Holders,Women_Backpacks,Women_Bag_Sets,Women_Clutches,Women_Crossbody,Women_Shoulder_Bags,Women_Top_Handle_Bags,Women_Tote_Bags",
+    "Brands,Men_Bags,Travel_Bags,Wallets_&_Card_Holders,Women_Backpacks,Women_Bag_Sets,Women_Clutches,Women_Crossbody,Women_Shoulder_Bags,Women_Top_Handle_Bags,Women_Tote_Bags",
     "kidsShoes": "boys_shoes",
     "womenShoes":
-    "Women_Boots,Women_Flats,Women_Pumps,Women_Sandals,Women_Shoes,Women_Slippers,Women_Sneakers,Women_Wedges_%26_Flatforms",
+    "Women_Boots,Women_Flats,Women_Pumps,Women_Sandals,Women_Shoes,Women_Slippers,Women_Sneakers,Women_Wedges_&_Flatforms",
     "menShoes":
     "Men_Loafers,Men_Boots,Men_Shoes,Dress_Shoes,Men_Sneakers,Men_Sandals",
     "kidsBoys":
@@ -71,9 +71,9 @@
       "id": "5",
       "name": "حقائب",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_%26_Luggage",
+      "main_category": "Bags_&_Luggage",
       "sub_category":
-      "Brands,Men_Bags,Travel_Bags,Wallets_%26_Card_Holders,Women_Backpacks,Women_Bag_Sets,Women_Clutches,Women_Crossbody,Women_Shoulder_Bags,Women_Top_Handle_Bags,Women_Tote_Bags"
+      "Brands,Men_Bags,Travel_Bags,Wallets_&_Card_Holders,Women_Backpacks,Women_Bag_Sets,Women_Clutches,Women_Crossbody,Women_Shoulder_Bags,Women_Top_Handle_Bags,Women_Tote_Bags"
     },
     {
       "id": "6",
@@ -81,7 +81,7 @@
       "image": "assets/images/Shoescat.jpg",
       "main_category": "Shoes,Baby_&_Kids",
       "sub_category":
-      "Men_Shoes,Women_Sandals,Women_Flats,Women_Shoes,Men_Sneakers,Men_Sandals_Slides,Women_Boots,Women_Sneakers,Women_Pumps,Women_Fashion_Boots,Men_Loafers,Dress_Shoes,Men_Boots,Women_Slippers,Men_Sandals,Men_Athletic_Shoes,Men_Slippers,Women_Outdoor_Shoes,Women_Wedges_Flatform,Men_Outdoor_Shoes,Men_Clogs,Women_Athletic_Shoes,Men_Flip_Flops_Slides,Men_Work_Safety_Shoes,Women_Clogs,Men_Flip_Flops_%26_Slides,Men_Skateboarding_Shoes,Wide_Fit_Pumps,Women_Wedges_%26_Flatform,Women_Loafers_Shoes,Men_Canvas_Shoes,boys_shoes"
+      "Men_Shoes,Women_Sandals,Women_Flats,Women_Shoes,Men_Sneakers,Men_Sandals_Slides,Women_Boots,Women_Sneakers,Women_Pumps,Women_Fashion_Boots,Men_Loafers,Dress_Shoes,Men_Boots,Women_Slippers,Men_Sandals,Men_Athletic_Shoes,Men_Slippers,Women_Outdoor_Shoes,Women_Wedges_Flatform,Men_Outdoor_Shoes,Men_Clogs,Women_Athletic_Shoes,Men_Flip_Flops_Slides,Men_Work_Safety_Shoes,Women_Clogs,Men_Flip_Flops_&_Slides,Men_Skateboarding_Shoes,Wide_Fit_Pumps,Women_Wedges_&_Flatform,Women_Loafers_Shoes,Men_Canvas_Shoes,boys_shoes"
     },
     {
       "id": "9",
@@ -98,13 +98,13 @@
     {
       "id": "17",
       "name": "اكسسوارات",
-      "image": "assets/images/aLanding.jpg",
+      "image": "assets/images/ALanding.jpg",
       "main_category": "Apparel_&_Accessories"
     },
     {
       "id": "20",
       "name": "قرطاسية ومكاتب",
-      "image": "assets/images/officecat.jpg",
+      "image": "assets/images/Officecat.jpg",
       "main_category": "Office_&_School_Supplies"
     },
     {
@@ -149,7 +149,7 @@
       "image": "assets/images/Shoescat.jpg",
       "main_category": "Shoes,Baby_&_Kids",
       "sub_category":
-      "Women_Boots,Women_Flats,Women_Pumps,Women_Sandals,Women_Shoes,Women_Slippers,Women_Sneakers,Women_Wedges_%26_Flatforms"
+      "Women_Boots,Women_Flats,Women_Pumps,Women_Sandals,Women_Shoes,Women_Slippers,Women_Sneakers,Women_Wedges_&_Flatforms"
     },
     {
       "id": "13",
@@ -548,7 +548,7 @@
       "image": "assets/images/Shoescat.jpg",
       "main_category": "Shoes,Baby_&_Kids",
       "sub_category":
-      "Men_Shoes,Women_Sandals,Women_Flats,Women_Shoes,Men_Sneakers,Men_Sandals_Slides,Women_Boots,Women_Sneakers,Women_Pumps,Women_Fashion_Boots,Men_Loafers,Dress_Shoes,Men_Boots,Women_Slippers,Men_Sandals,Men_Athletic_Shoes,Men_Slippers,Women_Outdoor_Shoes,Women_Wedges_Flatform,Men_Outdoor_Shoes,Men_Clogs,Women_Athletic_Shoes,Men_Flip_Flops_Slides,Men_Work_Safety_Shoes,Women_Clogs,Men_Flip_Flops_%26_Slides,Men_Skateboarding_Shoes,Wide_Fit_Pumps,Women_Wedges_%26_Flatform,Women_Loafers_Shoes,Men_Canvas_Shoes,boys_shoes"
+      "Men_Shoes,Women_Sandals,Women_Flats,Women_Shoes,Men_Sneakers,Men_Sandals_Slides,Women_Boots,Women_Sneakers,Women_Pumps,Women_Fashion_Boots,Men_Loafers,Dress_Shoes,Men_Boots,Women_Slippers,Men_Sandals,Men_Athletic_Shoes,Men_Slippers,Women_Outdoor_Shoes,Women_Wedges_Flatform,Men_Outdoor_Shoes,Men_Clogs,Women_Athletic_Shoes,Men_Flip_Flops_Slides,Men_Work_Safety_Shoes,Women_Clogs,Men_Flip_Flops_&_Slides,Men_Skateboarding_Shoes,Wide_Fit_Pumps,Women_Wedges_&_Flatform,Women_Loafers_Shoes,Men_Canvas_Shoes,boys_shoes"
     },
     {
       "name": "حفايات",
@@ -650,7 +650,7 @@
       "image": "assets/images/Shoescat.jpg",
       "main_category": "Shoes",
       "sub_category":
-      "Women_Boots,Women_Flats,Women_Pumps,Women_Sandals,Women_Shoes,Women_Slippers,Women_Sneakers,Women_Wedges_%26_Flatforms"
+      "Women_Boots,Women_Flats,Women_Pumps,Women_Sandals,Women_Shoes,Women_Slippers,Women_Sneakers,Women_Wedges_&_Flatforms"
     },
     {
       "name": " Boots  ستاتية ",
@@ -711,7 +711,7 @@
       "name": "ملابس داخلية نسائية",
       "image": "assets/images/Undercat.jpg",
       "main_category": "Underwear_&_Sleepwear",
-      "sub_category": "Women_Bras_%26_Panties"
+      "sub_category": "Women_Bras_&_Panties"
     },
     {
       "name": " بجامات و روبات مقاسات كبيرة",
@@ -772,24 +772,24 @@
   "apparel": [
     {
       "name": "جميع الأقسام",
-      "image": "assets/images/aLanding.jpg",
+      "image": "assets/images/ALanding.jpg",
       "main_category": "Apparel_&_Accessories"
     },
     {
       "name": " أوشحة وشالات نسائي",
-      "image": "assets/images/aLanding.jpg",
+      "image": "assets/images/ALanding.jpg",
       "main_category": "Apparel_&_Accessories",
       "sub_category": "Women_Scarves_&_Scarf_Accessories"
     },
     {
       "name": " مجوهرات نسائية للمناسبات",
-      "image": "assets/images/aLanding.jpg",
+      "image": "assets/images/ALanding.jpg",
       "main_category": "Apparel_&_Accessories",
       "sub_category": "Wedding_Accessories"
     },
     {
       "name": "قبعات وقفازات رجالية",
-      "image": "assets/images/aLanding.jpg",
+      "image": "assets/images/ALanding.jpg",
       "main_category": "Apparel_&_Accessories",
       "sub_category": "Men_Accessories"
     }
@@ -848,37 +848,37 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_%26_Luggage"
+      "main_category": "Bags_&_Luggage"
     },
     {
       "name": "حقائب يد وكتف نسائية",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_%26_Luggage",
+      "main_category": "Bags_&_Luggage",
       "sub_category":
       "Women_Crossbody,Women_Shoulder_Bags,Women_Top_Handle_Bags,Brands,Women_Bag_Sets,Travel_Bags"
     },
     {
       "name": "حقائب ظهر نسائية",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_%26_Luggage",
+      "main_category": "Bags_&_Luggage",
       "sub_category": "Women_Backpacks"
     },
     {
       "name": "كلاتشات نسائية",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_%26_Luggage",
+      "main_category": "Bags_&_Luggage",
       "sub_category": "Women_Clutches"
     },
     {
       "name": "حقائب توت نسائية",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_%26_Luggage",
+      "main_category": "Bags_&_Luggage",
       "sub_category": "Women_Tote_Bags"
     },
     {
       "name": "محافظ وحاملات بطاقات",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_%26_Luggage",
+      "main_category": "Bags_&_Luggage",
       "sub_category": "Wallets_&_Card_Holders,Men_Bags"
     }
   ],
