@@ -164,7 +164,7 @@
       "name": "أحذية أطفال",
       "image": "assets/images/Shoescat.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "boys_shoes"
+      "sub_category": "kids_sneakers,kids_boots,kids_slippers,kids_sandals,kids_flats,baby_shoes"
     }
   ],
   "kidsShoes": [
@@ -172,7 +172,43 @@
       "name": "أحذية أطفال",
       "image": "assets/images/Shoescat.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "boys_shoes"
+      "sub_category": "kids_sneakers,kids_boots,kids_slippers,kids_sandals,kids_flats,baby_shoes"
+    },
+    {
+      "name": "سنيكرز أطفال",
+      "image": "assets/images/Shoescat.jpg",
+      "main_category": "Baby_&_Kids,UniSexK",
+      "sub_category": "kids_sneakers"
+    },
+    {
+      "name": "أحذية بوت أطفال",
+      "image": "assets/images/Shoescat.jpg",
+      "main_category": "Baby_&_Kids,UniSexK",
+      "sub_category": "kids_boots"
+    },
+    {
+      "name": "شباشب أطفال",
+      "image": "assets/images/Shoescat.jpg",
+      "main_category": "Baby_&_Kids,UniSexK",
+      "sub_category": "kids_slippers"
+    },
+    {
+      "name": "صنادل أطفال",
+      "image": "assets/images/Shoescat.jpg",
+      "main_category": "Baby_&_Kids,UniSexK",
+      "sub_category": "kids_sandals"
+    },
+    {
+      "name": "أحذية فلات أطفال",
+      "image": "assets/images/Shoescat.jpg",
+      "main_category": "Baby_&_Kids,UniSexK",
+      "sub_category": "kids_flats"
+    },
+    {
+      "name": "أحذية مواليد",
+      "image": "assets/images/Shoescat.jpg",
+      "main_category": "Baby_&_Kids,UniSexK",
+      "sub_category": "baby_shoes"
     }
   ],
   "men": [
@@ -448,6 +484,18 @@
       "image": "assets/images/KLanding.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
       "sub_category": "Young_Boys_Pajamas,Young_Girls_Pajamas"
+    },
+    {
+      "name": "فساتين بناتية",
+      "image": "assets/images/KLanding.jpg",
+      "main_category": "Baby_&_Kids,UniSexK",
+      "sub_category": "Young_Girls_Dresses"
+    },
+     {
+      "name": "ملابس الرضع",
+      "image": "assets/images/pregcat.jpg",
+      "main_category": "Baby_&_Kids,UniSexK",
+      "sub_category": "baby_clothing"
     }
   ],
   "girls": [
@@ -539,7 +587,7 @@
       "name": "أحذية الأطفال",
       "image": "assets/images/pregcat.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "boys_shoes"
+      "sub_category": "baby_shoes"
     }
   ],
   "allShoes": [
