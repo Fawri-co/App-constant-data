@@ -169,19 +169,19 @@
   ],
   "kidsShoes": [
     {
-      "name": "أحذية أطفال",
+      "name": "جميع الأقسام",
       "image": "assets/images/Shoescat.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
       "sub_category": "kids_sneakers,kids_boots,kids_slippers,kids_sandals,kids_flats,baby_shoes"
     },
     {
-      "name": "سنيكرز أطفال",
+      "name": "احذية رياضية أطفال",
       "image": "assets/images/Shoescat.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
       "sub_category": "kids_sneakers"
     },
     {
-      "name": "أحذية بوت أطفال",
+      "name": "بوت أطفال",
       "image": "assets/images/Shoescat.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
       "sub_category": "kids_boots"
@@ -199,13 +199,13 @@
       "sub_category": "kids_sandals"
     },
     {
-      "name": "أحذية فلات أطفال",
+      "name": "حفايات أطفال",
       "image": "assets/images/Shoescat.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
       "sub_category": "kids_flats"
     },
     {
-      "name": "أحذية مواليد",
+      "name": "أحذية رضع",
       "image": "assets/images/Shoescat.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
       "sub_category": "baby_shoes"
