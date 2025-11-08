@@ -1,7 +1,7 @@
 {
   "mainCategories": {
-    "women": "Women_Apparel,UniSexA,Sports_&_Outdoor",
-    "men": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+    "women": "Women_Apparel",
+    "men": "Men_Apparel",
     "kids": "Baby_&_Kids,UniSexK",
     "bags": "Bags_&_Luggage",
     "shoes": "Shoes,Baby_&_Kids",
@@ -41,7 +41,7 @@
       "id": "1",
       "name": "ملابس نسائية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category":
       "WashaqWomen,WashaqUni,Arabian_Wear,Women_Beachwear,Women_Bottoms,Women_Clothing,Women_Co_Ords,Women_Denim,Women_Dresses,Women_Jumpsuits_Bodysuits,Women_Knitwear,Women_Outerwear,Women_Party_Wear,Women_Suits,Women_Sweatshirts,Women_Tops,Women_Activewear,Women_Sleepwear,Women_Sexy_Lingerie,Women_Bras_&_Panties,Women_Briefs"
     },
@@ -49,7 +49,7 @@
       "id": "2",
       "name": "ملابس رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Men_Apparel",
       "sub_category":
       "WashaqMen,WashaqUni,Men_Tops,Men_Clothing,Men_Outerwear,Men_Hoodies_&_Sweatshirts,Men_Co_Ords,Men_Bottoms,Men_Denim,Men_Knitwear,Men_Traditional_Cultural_Wear,Men_Active_Tops"
     },
@@ -63,7 +63,7 @@
       "id": "4",
       "name": "مقاسات كبيرة",
       "image": "assets/images/Womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category":
       "WashaqPlusWomen,Plus_Size_Dresses,Plus_Size_Bottoms,Plus_Size_Outerwears,Plus_Size_Denim,Plus_Size_Tops,Plus_Size_Co_Ords,Plus_Size_Suits,Plus_Size_Jumpsuits_Bodysuits,Plus_Size_Arabian_Wear,Plus_Size_Knitwear,Plus_Size_Sweatshirts,Women_Plus_Clothing,Women_Plus_Beachwear,Women_Plus_Party_Wear,Women_Plus_Activewear,Women_Plus_Sleep_&_Lounge,Plus_Size_Nightgowns_SleepShirts,Plus_Size_Robes"
     },
@@ -179,56 +179,56 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Men_Apparel",
       "sub_category":
       "WashaqMen,WashaqUni,Men_Tops,Men_Clothing,Men_Outerwear,Men_Hoodies_&_Sweatshirts,Men_Co_Ords,Men_Bottoms,Men_Denim,Men_Knitwear,Men_Traditional_Cultural_Wear,Men_Active_Tops"
     },
     {
       "name": "بلايز رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Men_Apparel",
       "sub_category": "Men_Tops,Men_Plus_Size_Tops,Men_Active_Tops"
     },
     {
       "name": "تنسيقات وأطقم رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Men_Apparel",
       "sub_category": "Men_Co_Ords,Men_Plus_Size_Co_Ords"
     },
     {
       "name": "هوديز رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Men_Apparel",
       "sub_category": "Men_Hoodies_&_Sweatshirts,Men_Plus_Size_Hoodies_Sweatshirts"
     },
     {
       "name": "ملابس رجالية سفلية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Men_Apparel",
       "sub_category": "Men_Bottoms"
     },
     {
       "name": "ملابس رجالية خارجية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Men_Apparel",
       "sub_category": "Men_Outerwear,Men_Plus_Size_Outerwear"
     },
     {
       "name": "أقمشة جينز رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Men_Apparel",
       "sub_category": "Men_Denim"
     },
     {
       "name": "الملابس الثقافية التقليدية للرجال",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Men_Apparel",
       "sub_category": "Men_Traditional_Cultural_Wear"
     },
     {
       "name": "ملابس رياضية رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Men_Apparel",
       "sub_category":
       "Men_Active_Bottoms,Men_Active_Tops,Men_Activewear, Plus Size Sports Sets"
     },
@@ -244,74 +244,74 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category":
       "WashaqWomen,WashaqUni,Arabian_Wear,Women_Beachwear,Women_Bottoms,Women_Clothing,Women_Co_Ords,Women_Denim,Women_Dresses,Women_Jumpsuits_Bodysuits,Women_Knitwear,Women_Outerwear,Women_Party_Wear,Women_Suits,Women_Sweatshirts,Women_Tops,Women_Activewear,Women_Sleepwear,Women_Sexy_Lingerie,Women_Bras_&_Panties,Women_Briefs"
     },
     {
       "name": "فساتين",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Dresses"
     },
     {
       "name": "ملابس نسائية سفلية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Bottoms,women_active_bottoms"
     },
     {
       "name": "ملابس نسائية خارجية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Outerwear"
     },
     {
       "name": "أقمشة جينز نسائية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Denim"
     },
     {
       "name": "بلايز نسائية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Tops,Women_Sweatshirts,women_active_tops"
     },
     {
       "name": "ملابس نسائية خليجية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Arabian_Wear"
     },
     {
       "name": "تنسيقات نسائية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Co_Ords"
     },
     {
       "name": "زفاف وسهرات نسائية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Party_Wear"
     },
     {
       "name": "ملابس نسائية سباحة",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Beachwear"
     },
     {
       "name": "بدلات نسائية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Suits"
     },
     {
       "name": "جمبسوت نسائية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Jumpsuits_Bodysuits"
     },
     {
@@ -342,74 +342,74 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category":
       "WashaqWomen,WashaqUni,Arabian_Wear,Women_Beachwear,Women_Bottoms,Women_Clothing,Women_Co_Ords,Women_Denim,Women_Dresses,Women_Jumpsuits_Bodysuits,Women_Knitwear,Women_Outerwear,Women_Party_Wear,Women_Suits,Women_Sweatshirts,Women_Tops,Women_Activewear,Women_Sleepwear,Women_Sexy_Lingerie,Women_Bras_&_Panties,Women_Briefs"
     },
     {
       "name": "فساتين حجم كبير",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Plus_Size_Dresses"
     },
     {
       "name": "ملابس سفلية حجم كبير",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Plus_Size_Bottoms"
     },
     {
       "name": "ملابس خارجية حجم كبير",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Plus_Size_Outerwears"
     },
     {
       "name": "اقمشة جينز حجم كبير",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Plus_Size_Denim"
     },
     {
       "name": "بلايز حجم كبير",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Plus_Size_Tops,Plus_Size_Sweatshirts"
     },
     {
       "name": "تنسيقات وأطقم حجم كبير",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Plus_Size_Co_Ords"
     },
     {
       "name": "زفاف وسهرات حجم كبير",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Plus_Party_Wear"
     },
     {
       "name": "ملابس سباحة حجم كبير",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Women_Plus_Beachwear"
     },
     {
       "name": "بدلات حجم كبير",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Plus_Size_Suits"
     },
     {
       "name": "جمبسوت حجم كبير",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Plus_Size_Jumpsuits_Bodysuits"
     },
     {
       "name": "ملابس خليجية حجم كبير",
       "image": "assets/images/womenpluscat.jpg",
-      "main_category": "Women_Apparel,UniSexA,Sports_&_Outdoor",
+      "main_category": "Women_Apparel",
       "sub_category": "Plus_Size_Arabian_Wear"
     },
     {
