@@ -133,7 +133,7 @@
       "image": "assets/images/KLanding.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
       "sub_category":
-      "WashaqKids,WashaqKidsBoys,Young_Boys_Bottoms,Young_Boys_Pajamas,Young_Boys_Sets,Young_Boys_Tops"
+      "WashaqKids,WashaqKidsBoys,Young_Boys_Bottoms,Young_Boys_Pajamas,tween_boys_pajamas,Young_Boys_Sets,Young_Boys_Tops"
     },
     {
       "id": "8",
@@ -483,7 +483,7 @@
       "name": "بجامات أطفال",
       "image": "assets/images/KLanding.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Boys_Pajamas,Young_Girls_Pajamas"
+      "sub_category": "Young_Boys_Pajamas,tween_boys_pajamas,Young_Girls_Pajamas"
     },
     {
       "name": "فساتين بناتية",
@@ -543,7 +543,7 @@
       "image": "assets/images/KLanding.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
       "sub_category":
-      "washaquni,kids_accessories,baby_clothing,Young_Boys_Bottoms,Young_Boys_Pajamas,Young_Boys_Sets,Young_Boys_Tops,Young_Boys_Clothing"
+      "washaquni,kids_accessories,baby_clothing,Young_Boys_Bottoms,Young_Boys_Pajamas,tween_boys_pajamas,Young_Boys_Sets,Young_Boys_Tops,Young_Boys_Clothing"
     },
     {
       "name": "بلايز ولادية",
@@ -561,7 +561,7 @@
       "name": "أطقم ولادية",
       "image": "assets/images/KLanding.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Boys_Sets,Young_Boys_Pajamas"
+      "sub_category": "Young_Boys_Sets,Young_Boys_Pajamas,tween_boys_pajamas"
     }
   ],
   "womenAndBaby": [
@@ -969,7 +969,7 @@
       "sub_category": "Young_Boys_Clothing"
     },
     {
-      "name": "أطق وبجاماتم أولاد",
+      "name": "أطق وبجامات أولاد",
       "image": "assets/images/KLanding.jpg",
       "main_category": "Baby_&_Kids,UniSexK",
       "sub_category": "Young_Boys_Sets,Young_Boys_Pajamas,tween_boys_pajamas"
