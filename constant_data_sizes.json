@@ -36,6 +36,7 @@
   "women": {
     "sizesList": {
       "XXS": "32",
+      "ss": "4444",
       "XS": "34",
       "S": "36",
       "M": "38",
@@ -46,6 +47,7 @@
     },
     "sizesMap": {
       "XXS": false,
+      "ss": false,
       "XS": false,
       "S": false,
       "M": false,
