@@ -1,7 +1,7 @@
 {
   "mainCategories": {
     "women": "women_apparel,UniSexA",
-    "men": "Men_Apparel,UniSexA,Sports_&_Outdoor",
+    "men": "men_apparel,UniSexA",
     "kids": "Baby_&_Kids,UniSexK",
     "bags": "Bags_&_Luggage",
     "shoes": "Shoes,Baby_&_Kids",
@@ -16,8 +16,7 @@
   "subCategories": {
     "women":"",
     "womenPlus":"",
-    "men":
-    "WashaqMen,WashaqUni,Men_Tops,Men_Clothing,Men_Outerwear,Men_Hoodies_&_Sweatshirts,Men_Co_Ords,Men_Bottoms,Men_Denim,Men_Knitwear,Men_Traditional_Cultural_Wear,Men_Active_Tops",
+    "men":"",
     "shoes":
     "Men_Shoes,Women_Sandals,Women_Flats,Women_Shoes,Men_Sneakers,Men_Sandals_Slides,Women_Boots,Women_Sneakers,Women_Pumps,Women_Fashion_Boots,Men_Loafers,Dress_Shoes,Men_Boots,Women_Slippers,Men_Sandals,Men_Athletic_Shoes,Men_Slippers,Women_Outdoor_Shoes,Women_Wedges_Flatform,Men_Outdoor_Shoes,Men_Clogs,Women_Athletic_Shoes,Men_Flip_Flops_Slides,Men_Work_Safety_Shoes,Women_Clogs,Men_Flip_Flops_&_Slides,Men_Skateboarding_Shoes,Wide_Fit_Pumps,Women_Wedges_&_Flatform,Women_Loafers_Shoes,Men_Canvas_Shoes,boys_shoes",
     "bags":
@@ -46,9 +45,8 @@
       "id": "2",
       "name": "ملابس رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
-      "sub_category":
-      "WashaqMen,WashaqUni,Men_Tops,Men_Clothing,Men_Outerwear,Men_Hoodies_&_Sweatshirts,Men_Co_Ords,Men_Bottoms,Men_Denim,Men_Knitwear,Men_Traditional_Cultural_Wear,Men_Active_Tops"
+      "main_category": "men_apparel,UniSexA",
+      "sub_category":""
     },
     {
       "id": "3",
@@ -211,58 +209,50 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
-      "sub_category":
-      "WashaqMen,WashaqUni,Men_Tops,Men_Clothing,Men_Outerwear,Men_Hoodies_&_Sweatshirts,Men_Co_Ords,Men_Bottoms,Men_Denim,Men_Knitwear,Men_Traditional_Cultural_Wear,Men_Active_Tops"
+      "main_category": "men_apparel,UniSexA",
+      "sub_category":""
     },
     {
       "name": "بلايز رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
-      "sub_category": "Men_Tops,Men_Plus_Size_Tops,Men_Active_Tops"
+      "main_category": "men_apparel,UniSexA",
+      "sub_category": "men_tops"
     },
     {
       "name": "تنسيقات وأطقم رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
-      "sub_category": "Men_Co_Ords,Men_Plus_Size_Co_Ords"
+      "main_category": "men_apparel,UniSexA",
+      "sub_category": "men_co_ords"
     },
     {
       "name": "هوديز رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
-      "sub_category": "Men_Hoodies_&_Sweatshirts,Men_Plus_Size_Hoodies_Sweatshirts"
+      "main_category": "men_apparel,UniSexA",
+      "sub_category": "men_hoodies_and_sweatshirts"
     },
     {
       "name": "ملابس رجالية سفلية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
-      "sub_category": "Men_Bottoms"
+      "main_category": "men_apparel,UniSexA",
+      "sub_category": "men_bottoms"
     },
     {
       "name": "ملابس رجالية خارجية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
-      "sub_category": "Men_Outerwear,Men_Plus_Size_Outerwear"
+      "main_category": "men_apparel,UniSexA",
+      "sub_category": "men_outerwear"
     },
     {
       "name": "أقمشة جينز رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
-      "sub_category": "Men_Denim"
+      "main_category": "men_apparel,UniSexA",
+      "sub_category": "men_denim"
     },
     {
       "name": "الملابس الثقافية التقليدية للرجال",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
-      "sub_category": "Men_Traditional_Cultural_Wear"
-    },
-    {
-      "name": "ملابس رياضية رجالية",
-      "image": "assets/images/Mencat.jpg",
-      "main_category": "Men_Apparel,UniSexA,Sports_&_Outdoor",
-      "sub_category":
-      "Men_Active_Bottoms,Men_Active_Tops,Men_Activewear, Plus Size Sports Sets"
+      "main_category": "men_apparel,UniSexA",
+      "sub_category": "men_traditional_cultural_wear"
     },
     {
       "name": "أحذية رجالية",
