@@ -149,7 +149,7 @@
       "id": "14",
       "name": "أحذية أطفال",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "kids_shoes",
+      "main_category": "kids_shoes,UniSexK",
       "sub_category": ""
     }
   ],
@@ -157,7 +157,7 @@
     {
       "name": "أحذية أطفال",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "kids_shoes",
+      "main_category": "kids_shoes,UniSexK",
       "sub_category": ""
     }
   ],
