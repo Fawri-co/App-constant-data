@@ -4,7 +4,7 @@
     "men": "men_apparel,UniSexA",
     "kids": "Baby_&_Kids,UniSexK",
     "bags": "Bags_&_Luggage",
-    "shoes": "Shoes,Baby_&_Kids",
+    "shoes": "men_shoes,women_shoes,kids_shoes",
     "underwear": "Underwear_&_Sleepwear",
     "home": "Home_&_Living",
     "accessories": "Apparel_&_Accessories",
@@ -17,19 +17,14 @@
     "women":"",
     "womenPlus":"",
     "men":"",
-    "shoes":
-    "Men_Shoes,Women_Sandals,Women_Flats,Women_Shoes,Men_Sneakers,Men_Sandals_Slides,Women_Boots,Women_Sneakers,Women_Pumps,Women_Fashion_Boots,Men_Loafers,Dress_Shoes,Men_Boots,Women_Slippers,Men_Sandals,Men_Athletic_Shoes,Men_Slippers,Women_Outdoor_Shoes,Women_Wedges_Flatform,Men_Outdoor_Shoes,Men_Clogs,Women_Athletic_Shoes,Men_Flip_Flops_Slides,Men_Work_Safety_Shoes,Women_Clogs,Men_Flip_Flops_&_Slides,Men_Skateboarding_Shoes,Wide_Fit_Pumps,Women_Wedges_&_Flatform,Women_Loafers_Shoes,Men_Canvas_Shoes,boys_shoes",
+    "shoes":"",
     "bags":
     "Brands,Men_Bags,Travel_Bags,Wallets_&_Card_Holders,Women_Backpacks,Women_Bag_Sets,Women_Clutches,Women_Crossbody,Women_Shoulder_Bags,Women_Top_Handle_Bags,Women_Tote_Bags",
-    "kidsShoes": "boys_shoes",
-    "womenShoes":
-    "Women_Boots,Women_Flats,Women_Pumps,Women_Sandals,Women_Shoes,Women_Slippers,Women_Sneakers,Women_Wedges_&_Flatforms",
-    "menShoes":
-    "Men_Loafers,Men_Boots,Men_Shoes,Dress_Shoes,Men_Sneakers,Men_Sandals",
-    "kidsBoys":
-    "WashaqKids,WashaqKidsBoys,Young_Boys_Bottoms,Young_Boys_Pajamas,Young_Boys_Sets,Young_Boys_Tops",
-    "kidsGirls":
-    "WashaqKids,WashaqKidsGirls,Young_Girls_Bottoms,Young_Girls_Dresses,Young_Girls_Pajamas,Young_Girls_Sets,Young_Girls_Tops",
+    "kidsShoes": "",
+    "womenShoes":"",
+    "menShoes":"",
+    "kidsBoys":"",
+    "kidsGirls":"",
     "kids":
     "WashaqKids,WashaqKidsBoys,WashaqKidsGirls,UniSexKidsGirls,Young_Boys_Bottoms,Young_Boys_Pajamas,Young_Boys_Sets,Young_Boys_Tops,Young_Girls_Bottoms,Young_Girls_Dresses,Young_Girls_Pajamas,Young_Girls_Sets,Young_Girls_Tops"
   },
@@ -73,9 +68,8 @@
       "id": "6",
       "name": "الأحذية",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category":
-      "Men_Shoes,Women_Sandals,Women_Flats,Women_Shoes,kids_sneakers,kids_boots,kids_slippers,kids_sandals,kids_flats,baby_shoes,Men_Sneakers,Men_Sandals_Slides,Women_Boots,Women_Sneakers,Women_Pumps,Women_Fashion_Boots,Men_Loafers,Dress_Shoes,Men_Boots,Women_Slippers,Men_Sandals,Men_Athletic_Shoes,Men_Slippers,Women_Outdoor_Shoes,Women_Wedges_Flatform,Men_Outdoor_Shoes,Men_Clogs,Women_Athletic_Shoes,Men_Flip_Flops_Slides,Men_Work_Safety_Shoes,Women_Clogs,Men_Flip_Flops_&_Slides,Men_Skateboarding_Shoes,Wide_Fit_Pumps,Women_Wedges_&_Flatform,Women_Loafers_Shoes,Men_Canvas_Shoes,boys_shoes"
+      "main_category": "men_shoes,women_shoes,kids_shoes",
+      "sub_category":""
     },
     {
       "id": "9",
@@ -141,68 +135,30 @@
       "id": "12",
       "name": "أحذية ستاتية",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category":
-      "Women_Boots,Women_Flats,Women_Pumps,Women_Sandals,Women_Shoes,Women_Slippers,Women_Sneakers,Women_Wedges_&_Flatforms"
+      "main_category": "women_shoes",
+      "sub_category":""
     },
     {
       "id": "13",
       "name": "أحذية رجالية",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category":
-      "Men_Loafers,Men_Boots,Men_Shoes,Dress_Shoes,Men_Sneakers,Men_Sandals"
+      "main_category": "men_shoes",
+      "sub_category":""
     },
     {
       "id": "14",
       "name": "أحذية أطفال",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "kids_sneakers,kids_boots,kids_slippers,kids_sandals,kids_flats,baby_shoes"
+      "main_category": "kids_shoes",
+      "sub_category": ""
     }
   ],
   "kidsShoes": [
     {
-      "name": "جميع الأقسام",
+      "name": "أحذية أطفال",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "kids_sneakers,kids_boots,kids_slippers,kids_sandals,kids_flats,baby_shoes"
-    },
-    {
-      "name": "احذية رياضية أطفال",
-      "image": "assets/images/Shoescat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "kids_sneakers"
-    },
-    {
-      "name": "بوت أطفال",
-      "image": "assets/images/Shoescat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "kids_boots"
-    },
-    {
-      "name": "شباشب أطفال",
-      "image": "assets/images/Shoescat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "kids_slippers"
-    },
-    {
-      "name": "صنادل أطفال",
-      "image": "assets/images/Shoescat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "kids_sandals"
-    },
-    {
-      "name": "حفايات أطفال",
-      "image": "assets/images/Shoescat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "kids_flats"
-    },
-    {
-      "name": "أحذية رضع",
-      "image": "assets/images/Shoescat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "baby_shoes"
+      "main_category": "kids_shoes",
+      "sub_category": ""
     }
   ],
   "men": [
@@ -257,9 +213,8 @@
     {
       "name": "أحذية رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category":
-      "Men_Loafers,Men_Boots,Men_Shoes,Dress_Shoes,Men_Sneakers,Men_Sandals"
+      "main_category": "men_shoes",
+      "sub_category":""
     }
   ],
   "women": [
@@ -354,8 +309,8 @@
     {
       "name": "أحذية نسائية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Women Shoes"
+      "main_category": "women_shoes",
+      "sub_category": ""
     }
   ],
   "womenPlus": [
@@ -548,135 +503,114 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category":
-      "Men_Shoes,Women_Sandals,Women_Flats,Women_Shoes,Men_Sneakers,Men_Sandals_Slides,Women_Boots,Women_Sneakers,Women_Pumps,Women_Fashion_Boots,Men_Loafers,Dress_Shoes,Men_Boots,Women_Slippers,Men_Sandals,Men_Athletic_Shoes,Men_Slippers,Women_Outdoor_Shoes,Women_Wedges_Flatform,Men_Outdoor_Shoes,Men_Clogs,Women_Athletic_Shoes,Men_Flip_Flops_Slides,Men_Work_Safety_Shoes,Women_Clogs,Men_Flip_Flops_&_Slides,Men_Skateboarding_Shoes,Wide_Fit_Pumps,Women_Wedges_&_Flatform,Women_Loafers_Shoes,Men_Canvas_Shoes,boys_shoes"
+      "main_category": "men_shoes,women_shoes,kids_shoes",
+      "sub_category":""
     },
     {
-      "name": "حفايات",
+      "name": "Boots",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Women_Flats,Men_Loafers ,kids_flats"
+      "main_category": "men_shoes,women_shoes",
+      "sub_category": "men_boots,women_boots"
     },
     {
       "name": "أحذية رياضة",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Men_Sneakers,Women_Sneakers,kids_sneakers"
-    },
-    {
-      "name": " Boots ",
-      "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Men_Boots,Women_Boots,kids_boots"
-    },
-    {
-      "name": " أحذية رسمية رجالية",
-      "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Men_Loafers,Dress_Shoes"
-    },
-    {
-      "name": " كعوب عالي و أحذية رسمية نسائية",
-      "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Women_Pumps,Women_Wedges_&_Flatform"
+      "main_category": "men_shoes,women_shoes",
+      "sub_category": "men_sneakers,women_sneakers"
     },
     {
       "name": "صنادل",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Men_Sandals,Women_Sandals,kids_sandals"
+      "main_category": "men_shoes,women_shoes",
+      "sub_category": "men_sandals,women_sandals"
     },
     {
-      "name": " شباشب وأحذية منزل",
+      "name": "حفايات",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Men_Sandals,Women_Slippers,kids_slippers"
+      "main_category": "men_shoes,women_shoes",
+      "sub_category": "men_loafers,women_flats"
     }
   ],
   "menShoes": [
     {
       "name": "جميع الأقسام",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category":
-      "Men_Loafers,Men_Boots,Men_Shoes,Dress_Shoes,Men_Sneakers,Men_Sandals"
+      "main_category": "men_shoes",
+      "sub_category":""
     },
     {
       "name": "حفايات رجالية",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Men_Loafers"
+      "main_category": "men_shoes",
+      "sub_category": "men_loafers"
     },
     {
       "name": " Boots رجالية",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Men_Boots"
+      "main_category": "men_shoes",
+      "sub_category": "men_boots"
     },
     {
       "name": "أحذية رسمية رجالية",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Dress_Shoes"
+      "main_category": "men_shoes",
+      "sub_category": "men_dress_shoes"
     },
     {
       "name": "أحذية رياضة رجالية",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Men_Sneakers"
+      "main_category": "men_shoes",
+      "sub_category": "men_sneakers"
     },
     {
       "name": " شباشب وصنادل رجالية",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes,Baby_&_Kids",
-      "sub_category": "Men_Sandals"
+      "main_category": "men_shoes",
+      "sub_category": "men_sandals"
     }
   ],
   "womenShoes": [
     {
       "name": "جميع الأقسام",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes",
-      "sub_category":
-      "Women_Boots,Women_Flats,Women_Pumps,Women_Sandals,Women_Shoes,Women_Slippers,Women_Sneakers,Women_Wedges_&_Flatforms"
+      "main_category": "women_shoes",
+      "sub_category":""
     },
     {
       "name": " Boots  ستاتية ",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes",
-      "sub_category": "Women_Boots"
+      "main_category": "women_shoes",
+      "sub_category": "women_boots"
     },
     {
       "name": "أحذية كعب عالي",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes",
-      "sub_category": "Women_Pumps, Women_Wedges_&_Flatform"
+      "main_category": "women_shoes",
+      "sub_category": "women_pumps,women_wedges"
     },
     {
       "name": "أحذية مسطحة و حفايات",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes",
-      "sub_category": "Women_Flats"
+      "main_category": "women_shoes",
+      "sub_category": "women_flats"
     },
     {
       "name": "أحذية رياضة ستاتية",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes",
-      "sub_category": "Women_Sneakers"
+      "main_category": "women_shoes",
+      "sub_category": "women_sneakers"
     },
     {
       "name": "صنادل ستاتية",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes",
-      "sub_category": "Women_Sandals"
+      "main_category": "women_shoes",
+      "sub_category": "women_sandals"
     },
     {
       "name": " شباشب وأحذية منزل ستاتية",
       "image": "assets/images/Shoescat.jpg",
-      "main_category": "Shoes",
-      "sub_category": "Women_Slippers"
+      "main_category": "women_shoes",
+      "sub_category": "women_slippers"
     }
   ],
   "underWare": [
