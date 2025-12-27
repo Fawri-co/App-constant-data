@@ -7,7 +7,7 @@
     "shoes": "men_shoes,women_shoes,kids_shoes",
     "underwear": "underwear_&_sleepwear",
     "home": "home_&_living",
-    "accessories": "Apparel_&_Accessories",
+    "accessories": "apparel_&_accessories",
     "office": "office_&_school_supplies",
     "beauty": "Beauty_&_Health",
     "sports": "Sports_&_Outdoor",
@@ -84,7 +84,7 @@
       "id": "17",
       "name": "اكسسوارات",
       "image": "assets/images/ALanding.jpg",
-      "main_category": "Apparel_&_Accessories"
+      "main_category": "apparel_&_accessories"
     },
     {
       "id": "20",
@@ -292,7 +292,7 @@
     {
       "name": "اكسسوارات نسائية",
       "image": "assets/images/WLanding.jpg",
-      "main_category": "Apparel_&_Accessories",
+      "main_category": "apparel_&_accessories",
       "sub_category": "Women Accessories"
     },
     {
@@ -665,25 +665,32 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/ALanding.jpg",
-      "main_category": "Apparel_&_Accessories"
+      "main_category": "apparel_&_accessories"
     },
     {
       "name": " أوشحة وشالات نسائي",
       "image": "assets/images/ALanding.jpg",
-      "main_category": "Apparel_&_Accessories",
-      "sub_category": "Women_Scarves_&_Scarf_Accessories"
+      "main_category": "apparel_&_accessories",
+      "sub_category": "women_scarves_and_scarf_accessories"
     },
+
     {
       "name": " مجوهرات نسائية للمناسبات",
       "image": "assets/images/ALanding.jpg",
-      "main_category": "Apparel_&_Accessories",
-      "sub_category": "Wedding_Accessories"
+      "main_category": "apparel_&_accessories",
+      "sub_category": "wedding_accessories"
+    },
+    {
+      "name": "قبعات وقفازات نسائية",
+      "image": "assets/images/ALanding.jpg",
+      "main_category": "apparel_&_accessories",
+      "sub_category": "women_accessories"
     },
     {
       "name": "قبعات وقفازات رجالية",
       "image": "assets/images/ALanding.jpg",
-      "main_category": "Apparel_&_Accessories",
-      "sub_category": "Men_Accessories"
+      "main_category": "apparel_&_accessories",
+      "sub_category": "men_accessories"
     }
   ],
   "beauty": [
