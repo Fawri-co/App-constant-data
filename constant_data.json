@@ -3,7 +3,7 @@
     "women": "women_apparel,UniSexA",
     "men": "men_apparel,UniSexA",
     "kids": "girls_kid,boy_kid,baby,baby_&_kids,UniSexK",
-    "bags": "Bags_&_Luggage",
+    "bags": "bags_&_luggage",
     "shoes": "men_shoes,women_shoes,kids_shoes",
     "underwear": "Underwear_&_Sleepwear",
     "home": "Home_&_Living",
@@ -18,8 +18,7 @@
     "womenPlus":"",
     "men":"",
     "shoes":"",
-    "bags":
-    "Brands,Men_Bags,Travel_Bags,Wallets_&_Card_Holders,Women_Backpacks,Women_Bag_Sets,Women_Clutches,Women_Crossbody,Women_Shoulder_Bags,Women_Top_Handle_Bags,Women_Tote_Bags",
+    "bags":"",
     "kidsShoes": "",
     "womenShoes":"",
     "menShoes":"",
@@ -59,9 +58,8 @@
       "id": "5",
       "name": "حقائب",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_&_Luggage",
-      "sub_category":
-      "Brands,Men_Bags,Travel_Bags,Wallets_&_Card_Holders,Women_Backpacks,Women_Bag_Sets,Women_Clutches,Women_Crossbody,Women_Shoulder_Bags,Women_Top_Handle_Bags,Women_Tote_Bags"
+      "main_category": "bags_&_luggage",
+      "sub_category":""
     },
     {
       "id": "6",
@@ -481,7 +479,6 @@
       "sub_category": ""
     }
   ],
- 
   "allShoes": [
     {
       "name": "جميع الأقسام",
@@ -755,38 +752,31 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_&_Luggage"
+      "main_category": "bags_&_luggage"
     },
     {
       "name": "حقائب يد وكتف نسائية",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_&_Luggage",
-      "sub_category":
-      "Women_Crossbody,Women_Shoulder_Bags,Women_Top_Handle_Bags,Brands,Women_Bag_Sets,Travel_Bags"
+      "main_category": "bags_&_luggage",
+      "sub_category":"women_shoulder_bags,women_handbags"
     },
     {
       "name": "حقائب ظهر نسائية",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_&_Luggage",
-      "sub_category": "Women_Backpacks"
+      "main_category": "bags_&_luggage",
+      "sub_category": "women_backpacks"
     },
     {
       "name": "كلاتشات نسائية",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_&_Luggage",
-      "sub_category": "Women_Clutches"
-    },
-    {
-      "name": "حقائب توت نسائية",
-      "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_&_Luggage",
-      "sub_category": "Women_Tote_Bags"
+      "main_category": "bags_&_luggage",
+      "sub_category": "women_clutches"
     },
     {
       "name": "محافظ وحاملات بطاقات",
       "image": "assets/images/Bagcat.jpg",
-      "main_category": "Bags_&_Luggage",
-      "sub_category": "Wallets_&_Card_Holders,Men_Bags"
+      "main_category": "bags_&_luggage",
+      "sub_category": "men_bags"
     }
   ],
   "sports": [
