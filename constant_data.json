@@ -6,7 +6,7 @@
     "bags": "bags_&_luggage",
     "shoes": "men_shoes,women_shoes,kids_shoes",
     "underwear": "underwear_&_sleepwear",
-    "home": "Home_&_Living",
+    "home": "home_&_living",
     "accessories": "Apparel_&_Accessories",
     "office": "Office_&_School_Supplies",
     "beauty": "Beauty_&_Health",
@@ -78,7 +78,7 @@
       "id": "15",
       "name": "للمنزل",
       "image": "assets/images/Homecat.jpg",
-      "main_category": "Home_&_Living"
+      "main_category": "home_&_living"
     },
     {
       "id": "17",
@@ -634,43 +634,31 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/Homecat.jpg",
-      "main_category": "Home_&_Living"
+      "main_category": "home_&_living"
     },
     {
       "name": "أدوات للمطبخ",
       "image": "assets/images/Homecat.jpg",
-      "main_category": "Home_&_Living",
-      "sub_category": "Kitchen_&_Dining,Bakeware"
+      "main_category": "home_&_living",
+      "sub_category": "kitchen_and_dining"
     },
     {
       "name": "ديكور و زينة",
       "image": "assets/images/Homecat.jpg",
-      "main_category": "Home_&_Living",
-      "sub_category": "Home_Decor"
+      "main_category": "home_&_living",
+      "sub_category": "home_decor"
     },
     {
       "name": "ملصقات المنزل",
       "image": "assets/images/Homecat.jpg",
-      "main_category": "Home_&_Living",
+      "main_category": "home_&_living",
       "sub_category": "Home_Stickers"
-    },
-    {
-      "name": "أغطية الوسائد والكراسي",
-      "image": "assets/images/Homecat.jpg",
-      "main_category": "Home_&_Living",
-      "sub_category": "Cushion_Cover"
-    },
-    {
-      "name": "ملوازم الحفلات المهرجانية",
-      "image": "assets/images/Homecat.jpg",
-      "main_category": "Home_&_Living",
-      "sub_category": "Festival_Party_Supplies"
     },
     {
       "name": "مكاتب وتنظيم",
       "image": "assets/images/Homecat.jpg",
-      "main_category": "Home_&_Living",
-      "sub_category": "makateb,storage_&_organization"
+      "main_category": "home_&_living",
+      "sub_category": "storage_and_organization"
     }
   ],
   "apparel": [
