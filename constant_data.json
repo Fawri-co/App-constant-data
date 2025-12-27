@@ -8,7 +8,7 @@
     "underwear": "underwear_&_sleepwear",
     "home": "home_&_living",
     "accessories": "Apparel_&_Accessories",
-    "office": "Office_&_School_Supplies",
+    "office": "office_&_school_supplies",
     "beauty": "Beauty_&_Health",
     "sports": "Sports_&_Outdoor",
     "electronics": "electronics"
@@ -90,7 +90,7 @@
       "id": "20",
       "name": "قرطاسية ومكاتب",
       "image": "assets/images/Officecat.jpg",
-      "main_category": "Office_&_School_Supplies"
+      "main_category": "office_&_school_supplies"
     },
     {
       "id": "21",
