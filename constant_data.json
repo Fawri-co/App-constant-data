@@ -2,7 +2,7 @@
   "mainCategories": {
     "women": "women_apparel,UniSexA",
     "men": "men_apparel,UniSexA",
-    "kids": "Baby_&_Kids,UniSexK",
+    "kids": "girls_kid,boy_kid,baby,baby_&_kids,UniSexK",
     "bags": "Bags_&_Luggage",
     "shoes": "men_shoes,women_shoes,kids_shoes",
     "underwear": "Underwear_&_Sleepwear",
@@ -25,8 +25,7 @@
     "menShoes":"",
     "kidsBoys":"",
     "kidsGirls":"",
-    "kids":
-    "WashaqKids,WashaqKidsBoys,WashaqKidsGirls,UniSexKidsGirls,Young_Boys_Bottoms,Young_Boys_Pajamas,Young_Boys_Sets,Young_Boys_Tops,Young_Girls_Bottoms,Young_Girls_Dresses,Young_Girls_Pajamas,Young_Girls_Sets,Young_Girls_Tops"
+    "kids":""
   },
   "basicCategories": [
     {
@@ -47,7 +46,7 @@
       "id": "3",
       "name": "ملابس أطفال",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK"
+      "main_category": "girls_kid,boy_kid,baby,baby_&_kids,UniSexK"
     },
     {
       "id": "4",
@@ -119,17 +118,15 @@
       "id": "7",
       "name": "ملابس أولاد",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category":
-      "WashaqKids,WashaqKidsBoys,Young_Boys_Bottoms,Young_Boys_Pajamas,Young_Boys_Sets,Young_Boys_Tops"
+      "main_category": "boy_kid,UniSexK",
+      "sub_category":""
     },
     {
       "id": "8",
       "name": "ملابس بنات",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category":
-      "WashaqKids,WashaqKidsGirls,Young_Girls_Bottoms,Young_Girls_Dresses,Young_Girls_Pajamas,Young_Girls_Sets,Young_Girls_Tops"
+      "main_category": "girls_kid,UniSexK",
+      "sub_category":""
     },
     {
       "id": "12",
@@ -379,123 +376,109 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK"
+      "main_category": "girls_kid,boy_kid,baby,baby_&_kids,UniSexK"
     },
     {
-      "name": "بلايز أطفال",
+      "name": "ملابس علوية",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "washaquni,Young_Girls_Tops,Young_Boys_Tops"
+      "main_category": "girls_kid,boy_kid,UniSexK",
+      "sub_category": "young_girls_tops,young_boys_tops"
     },
     {
-      "name": "ملابس أطفال سفلية",
+      "name": "ملابس سفلية",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Bottoms,Young_Boys_Bottoms"
+      "main_category": "girls_kid,boy_kid,UniSexK",
+      "sub_category": "young_girls_bottoms,young_boys_bottoms"
     },
     {
-      "name": "بجامات أطفال",
+      "name": "ملابس نوم وبجامات",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Boys_Pajamas,Young_Girls_Pajamas"
+      "main_category": "girls_kid,boy_kid,UniSexK",
+      "sub_category": "young_girls_pajamas,young_boys_pajamas"
     },
     {
-      "name": "فساتين بناتية",
+      "name": "أطقم أطفال",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Dresses"
-    },
-     {
-      "name": "ملابس الرضع",
-      "image": "assets/images/pregcat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "baby_clothing"
+      "main_category": "girls_kid,boy_kid,UniSexK",
+      "sub_category": "young_girls_sets,young_girls_outerwear,young_boys_sets"
     }
   ],
   "girls": [
     {
       "name": "جميع الأقسام",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category":
-      "washaquni,baby_clothing,kids_accessories,Young_Girls_Bottoms,Young_Girls_Dresses,Young_Girls_Pajamas,Young_Girls_Sets,Young_Girls_Tops"
+      "main_category": "girls_kid,UniSexK",
+      "sub_category":"" 
     },
     {
       "name": "فساتين بناتية",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Dresses"
+      "main_category": "girls_kid,UniSexK",
+      "sub_category": "young_girls_dresses"
     },
     {
       "name": "ملابس علوية بناتية",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "washaquni,Young_Girls_Tops"
+      "main_category": "girls_kid,UniSexK",
+      "sub_category": "young_girls_tops"
     },
     {
       "name": "ملابس سفلية بناتية",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Bottoms"
+      "main_category": "girls_kid,UniSexK",
+      "sub_category": "young_girls_bottoms"
     },
     {
       "name": " ملابس نوم وبجامات بناتية",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Pajamas"
+      "main_category": "girls_kid,UniSexK",
+      "sub_category": "young_girls_pajamas"
     },
     {
       "name": "أطقم بناتية",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Sets, Young_Girls_Outerwear"
+      "main_category": "girls_kid,UniSexK",
+      "sub_category": "young_girls_sets,young_girls_outerwear"
     }
   ],
   "boys": [
     {
       "name": "جميع الأقسام",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category":
-      "washaquni,kids_accessories,baby_clothing,Young_Boys_Bottoms,Young_Boys_Pajamas,Young_Boys_Sets,Young_Boys_Tops,Young_Boys_Clothing"
+      "main_category": "boy_kid,UniSexK",
+      "sub_category":""
     },
     {
       "name": "بلايز ولادية",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "washaquni,Young_Boys_Tops"
+      "main_category": "boy_kid,UniSexK",
+      "sub_category": "young_boys_tops"
     },
     {
       "name": "سراويل ولادية",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Boys_Bottoms"
+      "main_category": "boy_kid,UniSexK",
+      "sub_category": "young_boys_bottoms"
+    },
+    {
+      "name": " ملابس نوم وبجامات ولادية",
+      "image": "assets/images/KLanding.jpg",
+      "main_category": "boy_kid,UniSexK",
+      "sub_category": "young_boys_pajamas"
     },
     {
       "name": "أطقم ولادية",
       "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Boys_Sets,Young_Boys_Pajamas"
+      "main_category": "boy_kid,UniSexK",
+      "sub_category": "young_boys_sets"
     }
   ],
   "womenAndBaby": [
     {
-      "name": "جميع الأقسام",
+      "name": "ملابس الرضع",
       "image": "assets/images/pregcat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "baby_clothing,boys_shoes"
-    },
-    {
-      "name": "ملابس أولاد الأطفال",
-      "image": "assets/images/pregcat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "baby_clothing"
-    },
-    {
-      "name": "أحذية الأطفال",
-      "image": "assets/images/pregcat.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "baby_shoes"
+      "main_category": "baby,UniSexK",
+      "sub_category": ""
     }
   ],
  
@@ -841,79 +824,6 @@
       "image": "assets/images/Sportcat.jpg",
       "main_category": "Sports_&_Outdoor",
       "sub_category": "Boxing_Equipment"
-    }
-  ],
-  "kids": [
-    {
-      "name": "جميع الأقسام",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK"
-    },
-    {
-      "name": "بناطيل أولاد",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Boys_Bottoms"
-    },
-    {
-      "name": "ملابس أولاد",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Boys_Clothing"
-    },
-    {
-      "name": "أطق وبجامات أولاد",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Boys_Sets,Young_Boys_Pajamas"
-    },
-    {
-      "name": "بلايز أولاد",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Boys_Tops"
-    },
-    {
-      "name": "بناطيل بنات",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Bottoms"
-    },
-    {
-      "name": "ملابس بنات",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Clothing"
-    },
-    {
-      "name": "فساتين بنات",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Dresses"
-    },
-    {
-      "name": "ملابس خارجية بنات",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Outerwear"
-    },
-    {
-      "name": "بيجامات بنات",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Pajamas"
-    },
-    {
-      "name": "أطقم بنات",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Sets"
-    },
-    {
-      "name": "بلايز بنات",
-      "image": "assets/images/KLanding.jpg",
-      "main_category": "Baby_&_Kids,UniSexK",
-      "sub_category": "Young_Girls_Tops"
     }
   ],
   "perfume": [
