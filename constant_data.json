@@ -11,7 +11,7 @@
     "office": "Office_&_School_Supplies",
     "beauty": "Beauty_&_Health",
     "sports": "Sports_&_Outdoor",
-    "electronics": "Electronics"
+    "electronics": "electronics"
   },
   "subCategories": {
     "women":"",
@@ -102,7 +102,7 @@
       "id": "22",
       "name": "الكترونيات",
       "image": "assets/images/ElectCat.jpg",
-      "main_category": "Electronics"
+      "main_category": "electronics"
     },
     {
       "id": "23",
@@ -721,19 +721,19 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/ElectCat.jpg",
-      "main_category": "Electronics"
+      "main_category": "electronics"
     },
     {
       "name": " اغلفة وإكسسوارات الهاتف",
       "image": "assets/images/ElectCat.jpg",
-      "main_category": "Electronics",
-      "sub_category": "Cases"
+      "main_category": "electronics",
+      "sub_category": "cases"
     },
     {
       "name": "وإكسسوارات السيارات",
       "image": "assets/images/ElectCat.jpg",
-      "main_category": "Electronics",
-      "sub_category": "Car_Seats_&_Accessories"
+      "main_category": "electronics",
+      "sub_category": "car_seats_and_accessories"
     }
   ],
   "bags": [
