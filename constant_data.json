@@ -1,7 +1,7 @@
 {
   "mainCategories": {
     "women": "women_apparel,UniSexA",
-    "men": "men_apparel,UniSexA",
+    "men": "men_apparel,UniSexA,sports_&_outdoor",
     "kids": "girls_kid,boy_kid,baby,baby_&_kids,UniSexK",
     "bags": "bags_&_luggage",
     "shoes": "men_shoes,women_shoes,kids_shoes",
@@ -38,7 +38,7 @@
       "id": "2",
       "name": "ملابس رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "men_apparel,UniSexA",
+      "main_category": "men_apparel,UniSexA,sports_&_outdoor",
       "sub_category":""
     },
     {
@@ -160,49 +160,49 @@
     {
       "name": "جميع الأقسام",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "men_apparel,UniSexA",
+      "main_category": "men_apparel,UniSexA,sports_&_outdoor",
       "sub_category":""
     },
     {
       "name": "بلايز رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "men_apparel,UniSexA",
+      "main_category": "men_apparel,UniSexA,sports_&_outdoor",
       "sub_category": "men_tops"
     },
     {
       "name": "تنسيقات وأطقم رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "men_apparel,UniSexA",
+      "main_category": "men_apparel,UniSexA,sports_&_outdoor",
       "sub_category": "men_co_ords"
     },
     {
       "name": "هوديز رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "men_apparel,UniSexA",
+      "main_category": "men_apparel,UniSexA,sports_&_outdoor",
       "sub_category": "men_hoodies_and_sweatshirts"
     },
     {
       "name": "ملابس رجالية سفلية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "men_apparel,UniSexA",
+      "main_category": "men_apparel,UniSexA,sports_&_outdoor",
       "sub_category": "men_bottoms"
     },
     {
       "name": "ملابس رجالية خارجية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "men_apparel,UniSexA",
+      "main_category": "men_apparel,UniSexA,sports_&_outdoor",
       "sub_category": "men_outerwear"
     },
     {
       "name": "أقمشة جينز رجالية",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "men_apparel,UniSexA",
+      "main_category": "men_apparel,UniSexA,sports_&_outdoor",
       "sub_category": "men_denim"
     },
     {
       "name": "الملابس الثقافية التقليدية للرجال",
       "image": "assets/images/Mencat.jpg",
-      "main_category": "men_apparel,UniSexA",
+      "main_category": "men_apparel,UniSexA,sports_&_outdoor",
       "sub_category": "men_traditional_cultural_wear"
     },
     {
