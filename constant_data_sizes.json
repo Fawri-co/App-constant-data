@@ -4,9 +4,9 @@
       "S":"36",
       "M":"38",
       "L":"40",
-      "XL,0XL,1XL":"42",
-      "XXL,2XL":"44",
-      "XXXL,3XL":"46",
+      "XL":"42",
+      "XXL":"44",
+      "XXXL":"46",
       "4XL":"56",
       "5XL":"58",
       "6XL":"60"
@@ -33,11 +33,11 @@
       "S": "36",
       "M": "38",
       "L": "40",
-      "XL,0XL,1XL": "42",
+      "XL": "42",
       "XS": "34",
       "XXS": "32",
-      "XXL,2XL":"44",
-      "XXXL,3XL":"46",
+      "XXL":"44",
+      "XXXL":"46",
       "4XL": "50"
     },
     "sizesMap": {
@@ -49,19 +49,15 @@
       "XL": false,
       "XXL": false,
       "XXXL": false,
-      "0XL": false,
-      "1XL": false,
-      "2XL": false,
-      "3XL": false,
       "4XL": false,
       "5XL": false
     }
   },
   "womenPlus": {
     "sizesList": {
-      "XL,0XL,1XL": "42",
-      "XXL,2XL": "44",
-      "XXXL,3XL": "46",
+      "XL": "42",
+      "XXL": "44",
+      "XXXL": "46",
       "4XL": "50"
     }
   },
@@ -250,10 +246,7 @@
       "L",
       "XL",
       "XXL",
-      "0XL",
-      "1XL",
-      "2XL",
-      "3XL",
+      "XXXL",
       "4XL",
       "5XL",
       "ONE SIZE"
