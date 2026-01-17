@@ -7,7 +7,7 @@
     "shoes": "men_shoes,women_shoes,kids_shoes",
     "underwear": "underwear_&_sleepwear",
     "home": "home_&_living",
-    "apparel": "apparel_&_accessories",
+    "accessories": "apparel_&_accessories",
     "office": "office_&_school_supplies",
     "beauty": "Beauty_&_Health",
     "sports": "Sports_&_Outdoor",
@@ -609,7 +609,7 @@
       "name": "لانجري",
       "image": "assets/images/Undercat.jpg",
       "main_category": "underwear_&_sleepwear",
-      "sub_category": "Women_Sexy_Lingerie,women_sleepwear"
+      "sub_category": "Women_Sexy_Lingerie"
     },
     {
       "name": "ملابس داخلية نسائية",
@@ -661,7 +661,7 @@
       "sub_category": "storage_and_organization"
     }
   ],
-  "apparel": [
+  "accessories": [
     {
       "name": "جميع الأقسام",
       "image": "assets/images/ALanding.jpg",
@@ -689,7 +689,7 @@
       "name": "قبعات وقفازات رجالية",
       "image": "assets/images/ALanding.jpg",
       "main_category": "apparel_&_accessories",
-      "sub_category": "men_accessories,men_hats"
+      "sub_category": "men_accessories"
     }
   ],
   "beauty": [
