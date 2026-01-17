@@ -86,6 +86,16 @@
       "image": "assets/images/ALanding.jpg",
       "main_category": "apparel_&_accessories"
     },
+
+    {
+      "id": "17",
+      "name": "فيتامينات و العناية بالبشرة",
+      "image": "assets/images/Beautycat.jpg",
+      "main_category": "Beauty_&_Health"
+
+    },
+
+
     {
       "id": "20",
       "name": "قرطاسية ومكاتب",
