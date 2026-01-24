@@ -40,7 +40,7 @@
       "id": "2",
       "name": "ملابس رجالية",
       "image": "assets/images/Mencat.jpg",
-      "big-image": "assets/images/Mencat.webp",
+      "big-image": "assets/images/Mencat.jpg",
       "main_category": "men_apparel,UniSexA,sports_&_outdoor",
       "sub_category":""
     },
@@ -48,14 +48,14 @@
       "id": "3",
       "name": "ملابس أطفال",
       "image": "assets/images/KLanding.jpg",
-      "big-image": "assets/images/KLanding.webp",
+      "big-image": "assets/images/KLanding.jpg",
       "main_category": "girls_kid,boy_kid,baby,baby_&_kids,UniSexK"
     },
     {
       "id": "4",
       "name": "مقاسات كبيرة",
       "image": "assets/images/Womenpluscat.jpg",
-      "big-image": "assets/images/Womenpluscat.webp",
+      "big-image": "assets/images/Womenpluscat.jpg",
       "main_category": "women_plus_apparel,UniSexA",
       "sub_category":""
     },
@@ -63,7 +63,7 @@
       "id": "5",
       "name": "حقائب",
       "image": "assets/images/Bagcat.jpg",
-      "big-image": "assets/images/Bagcat.webp",
+      "big-image": "assets/images/Bagcat.jpg",
       "main_category": "bags_&_luggage",
       "sub_category":""
     },
@@ -71,7 +71,7 @@
       "id": "6",
       "name": "الأحذية",
       "image": "assets/images/Shoescat.jpg",
-      "big-image": "assets/images/Shoescat.webp",
+      "big-image": "assets/images/Shoescat.jpg",
       "main_category": "men_shoes,women_shoes,kids_shoes",
       "sub_category":""
     },
@@ -79,21 +79,21 @@
       "id": "9",
       "name": "ملابس داخلية",
       "image": "assets/images/Undercat.jpg",
-      "big-image": "assets/images/Undercat.webp",
+      "big-image": "assets/images/Undercat.jpg",
       "main_category": "underwear_&_sleepwear"
     },
     {
       "id": "15",
       "name": "للمنزل",
       "image": "assets/images/Homecat.jpg",
-      "big-image": "assets/images/Homecat.webp",
+      "big-image": "assets/images/Homecat.jpg",
       "main_category": "home_&_living"
     },
     {
       "id": "16",
       "name": "اكسسوارات",
       "image": "assets/images/ALanding.jpg",
-      "big-image": "assets/images/ALanding.webp",
+      "big-image": "assets/images/ALanding.jpg",
       "main_category": "apparel_&_accessories"
     },
 
@@ -102,28 +102,28 @@
       "id": "20",
       "name": "قرطاسية ومكاتب",
       "image": "assets/images/Officecat.jpg",
-      "big-image": "assets/images/Officecat.webp",
+      "big-image": "assets/images/Officecat.jpg",
       "main_category": "office_&_school_supplies"
     },
     {
       "id": "17",
       "name": "فيتامينات و العناية بالبشرة",
       "image": "assets/images/Beautycat.jpg",
-      "big-image": "assets/images/Beautycat.webp",
+      "big-image": "assets/images/Beautycat.jpg",
       "main_category": "Beauty_&_Health"
     },
     {
       "id": "22",
       "name": "الكترونيات",
       "image": "assets/images/ElectCat.jpg",
-      "big-image": "assets/images/ElectCat.webp",
+      "big-image": "assets/images/ElectCat.jpg",
       "main_category": "electronics"
     },
     {
       "id": "23",
       "name": "ملابس رياضية",
       "image": "assets/images/Sportcat.jpg",
-      "big-image": "assets/images/Sportcat.webp",
+      "big-image": "assets/images/Sportcat.jpg",
       "main_category": "Sports_&_Outdoor"
     }
   ],
