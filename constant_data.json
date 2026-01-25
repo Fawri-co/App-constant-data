@@ -31,8 +31,8 @@
     {
       "id": "1",
       "name": "ملابس نسائية",
-      "image": "assets/images/WLanding.jpg",
-      "big-image": "assets/images/WLanding.jpg",
+      "image": "assets/images/WLanding.png",
+      "big-image": "assets/images/WLanding.png",
       "main_category": "women_apparel,UniSexA",
       "sub_category":"" 
     },
